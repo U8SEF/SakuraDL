@@ -4,7 +4,7 @@
 
 **Fast • Simple • Powerful Anime Downloader**
 
-<img src="assets/banner.png" alt="SakuraDL Banner" width="100%">
+<img src="https://i.imgur.com/hIrb5WG.jpeg" alt="SakuraDL Banner" width="100%">
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Development-purple?style=for-the-badge)
@@ -54,12 +54,11 @@ python main.py
 
 ## 📦 Requirements
 
-* Python 3.10+
+* Python 3.12
 * aria2c
 * requests
 * beautifulsoup4
-* lxml
-* PyStyle
+* pystyle
 
 Install dependencies:
 
