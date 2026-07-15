@@ -32,7 +32,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/SakuraDL.git
+git clone https://github.com/U8SEF/SakuraDL.git
 cd SakuraDL
 ```
 
